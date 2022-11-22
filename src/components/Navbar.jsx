@@ -8,7 +8,7 @@ export default () => (
             justifyContent: 'center',
             gap: '1rem',
             listStyle: 'none',
-            backgroundColor: 'black',
+            backgroundColor: 'gray',
             color: 'white',
             padding: '20px',
             margin: '0'
